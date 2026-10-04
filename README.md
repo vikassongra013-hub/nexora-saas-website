@@ -1,14 +1,40 @@
-# NEXORA SaaS Website
+# NEXORA — Modern SaaS Website
 
-A responsive, premium SaaS landing page created as a client-ready sample.
+A premium, responsive SaaS website concept designed for modern technology companies and digital products.
 
-## Files
-- `index.html` — page structure/content
-- `style.css` — responsive styling
-- `script.js` — mobile navigation
+## 🚀 Live Website
 
-## Run
-Open `index.html` in a browser.
+https://vikassongra013-hub.github.io/nexora-saas-website/
 
-## Customize
-Replace NEXORA, text, pricing, testimonials and links with the client's real brand details before final delivery.
+## ✨ Features
+
+- Modern SaaS landing page
+- Fully responsive design
+- Mobile-friendly navigation
+- Premium dashboard hero section
+- Features section
+- Solutions section
+- Pricing plans
+- Customer testimonial
+- Request Demo form
+- Smooth scrolling
+- Responsive mobile layout
+- Clean and professional UI
+
+## 🛠️ Technologies
+
+- HTML5
+- CSS3
+- JavaScript
+- Google Fonts
+- GitHub Pages
+
+## 📁 Project Structure
+
+```text
+nexora-saas-website/
+│
+├── index.html
+├── style.css
+├── script.js
+└── README.md
